@@ -7,10 +7,3 @@
 <!---
 motta37/motta37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
----
-layout: index
-title: Guias de código aberto
-lang: pt
-permalink: /pt/
----
